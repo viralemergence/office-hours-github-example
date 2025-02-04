@@ -1,5 +1,6 @@
 # Working directory for data
 data/
+genomes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
