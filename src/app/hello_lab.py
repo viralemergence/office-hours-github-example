@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    lab_members = ["Adlxenaer", "Ineer", "Rcradio"]
+    lab_members = ["Alexander", "Ineer", "Rcradio"]
 
     print("The Seifert lab has the following members:")
     for member in lab_members:
